@@ -1,0 +1,137 @@
+{
+	"All": {
+		"confirmed": 3515796,
+		"recovered": 8477,
+		"deaths": 93469,
+		"country": "United Kingdom",
+		"population": 66181585,
+		"sq_km_area": 242900,
+		"life_expectancy": "77.7",
+		"elevation_in_meters": 162,
+		"continent": "Europe",
+		"abbreviation": "GB",
+		"location": "British Isles",
+		"iso": 826,
+		"capital_city": "London"
+	},
+	"Anguilla": {
+		"lat": "18.2206",
+		"long": "-63.0686",
+		"confirmed": 15,
+		"recovered": 15,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Bermuda": {
+		"lat": "32.3078",
+		"long": "-64.7505",
+		"confirmed": 684,
+		"recovered": 603,
+		"deaths": 12,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"British Virgin Islands": {
+		"lat": "18.4207",
+		"long": "-64.64",
+		"confirmed": 114,
+		"recovered": 95,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Cayman Islands": {
+		"lat": "19.3133",
+		"long": "-81.2546",
+		"confirmed": 381,
+		"recovered": 334,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Channel Islands": {
+		"lat": "49.3723",
+		"long": "-2.3644",
+		"confirmed": 3398,
+		"recovered": 3107,
+		"deaths": 78,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"England": {
+		"lat": "52.3555",
+		"long": "-1.1743",
+		"confirmed": 3057670,
+		"recovered": 0,
+		"deaths": 81805,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Falkland Islands (Malvinas)": {
+		"lat": "-51.7963",
+		"long": "-59.5236",
+		"confirmed": 35,
+		"recovered": 29,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Gibraltar": {
+		"lat": "36.1408",
+		"long": "-5.3536",
+		"confirmed": 3845,
+		"recovered": 2994,
+		"deaths": 53,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Isle of Man": {
+		"lat": "54.2361",
+		"long": "-4.5481",
+		"confirmed": 432,
+		"recovered": 357,
+		"deaths": 25,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Montserrat": {
+		"lat": "16.742498",
+		"long": "-62.187366",
+		"confirmed": 13,
+		"recovered": 12,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Northern Ireland": {
+		"lat": "54.7877",
+		"long": "-6.4923",
+		"confirmed": 97619,
+		"recovered": 0,
+		"deaths": 1671,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Scotland": {
+		"lat": "56.4907",
+		"long": "-4.2026",
+		"confirmed": 166583,
+		"recovered": 0,
+		"deaths": 5468,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Turks and Caicos Islands": {
+		"lat": "21.694",
+		"long": "-71.7979",
+		"confirmed": 1125,
+		"recovered": 931,
+		"deaths": 7,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Unknown": {
+		"lat": "",
+		"long": "",
+		"confirmed": 0,
+		"recovered": 0,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Wales": {
+		"lat": "52.1307",
+		"long": "-3.7837",
+		"confirmed": 183882,
+		"recovered": 0,
+		"deaths": 4346,
+		"updated": "2021/01/21 01:22:17+00"
+	}
+}

@@ -1,0 +1,409 @@
+{
+	"All": {
+		"confirmed": 346457,
+		"recovered": 264831,
+		"deaths": 4778,
+		"country": "Japan",
+		"population": 127484450,
+		"sq_km_area": 377829,
+		"life_expectancy": "80.7",
+		"elevation_in_meters": 438,
+		"continent": "Asia",
+		"abbreviation": "JP",
+		"location": "Eastern Asia",
+		"iso": 392,
+		"capital_city": "Tokyo"
+	},
+	"Aichi": {
+		"lat": "35.035551",
+		"long": "137.211621",
+		"confirmed": 21934,
+		"recovered": 17687,
+		"deaths": 338,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Akita": {
+		"lat": "39.748679",
+		"long": "140.408228",
+		"confirmed": 227,
+		"recovered": 166,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Aomori": {
+		"lat": "40.781541",
+		"long": "140.828896",
+		"confirmed": 660,
+		"recovered": 554,
+		"deaths": 9,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Chiba": {
+		"lat": "35.510141",
+		"long": "140.198917",
+		"confirmed": 18574,
+		"recovered": 11967,
+		"deaths": 189,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Ehime": {
+		"lat": "33.624835",
+		"long": "132.856842",
+		"confirmed": 866,
+		"recovered": 613,
+		"deaths": 16,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Fukui": {
+		"lat": "35.846614",
+		"long": "136.224654",
+		"confirmed": 462,
+		"recovered": 376,
+		"deaths": 13,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Fukuoka": {
+		"lat": "33.526032",
+		"long": "130.666949",
+		"confirmed": 14106,
+		"recovered": 9580,
+		"deaths": 154,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Fukushima": {
+		"lat": "37.378867",
+		"long": "140.223295",
+		"confirmed": 1518,
+		"recovered": 1128,
+		"deaths": 35,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Gifu": {
+		"lat": "35.778671",
+		"long": "137.055925",
+		"confirmed": 3673,
+		"recovered": 2934,
+		"deaths": 58,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Gunma": {
+		"lat": "36.504479",
+		"long": "138.985605",
+		"confirmed": 3427,
+		"recovered": 2715,
+		"deaths": 61,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hiroshima": {
+		"lat": "34.605309",
+		"long": "132.788719",
+		"confirmed": 4504,
+		"recovered": 3787,
+		"deaths": 75,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hokkaido": {
+		"lat": "43.385711",
+		"long": "142.552318",
+		"confirmed": 16188,
+		"recovered": 13866,
+		"deaths": 551,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hyogo": {
+		"lat": "35.039913",
+		"long": "134.828057",
+		"confirmed": 14513,
+		"recovered": 11714,
+		"deaths": 320,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Ibaraki": {
+		"lat": "36.303588",
+		"long": "140.319591",
+		"confirmed": 4026,
+		"recovered": 3050,
+		"deaths": 46,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Ishikawa": {
+		"lat": "36.769464",
+		"long": "136.771027",
+		"confirmed": 1375,
+		"recovered": 1133,
+		"deaths": 56,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Iwate": {
+		"lat": "39.593287",
+		"long": "141.361777",
+		"confirmed": 483,
+		"recovered": 386,
+		"deaths": 25,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kagawa": {
+		"lat": "34.217292",
+		"long": "133.969047",
+		"confirmed": 555,
+		"recovered": 357,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kagoshima": {
+		"lat": "31.009484",
+		"long": "130.430665",
+		"confirmed": 1460,
+		"recovered": 1176,
+		"deaths": 17,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kanagawa": {
+		"lat": "35.415312",
+		"long": "139.338983",
+		"confirmed": 35645,
+		"recovered": 28622,
+		"deaths": 379,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kochi": {
+		"lat": "33.422519",
+		"long": "133.367307",
+		"confirmed": 807,
+		"recovered": 721,
+		"deaths": 13,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kumamoto": {
+		"lat": "32.608154",
+		"long": "130.745231",
+		"confirmed": 3077,
+		"recovered": 2176,
+		"deaths": 46,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Kyoto": {
+		"lat": "35.253815",
+		"long": "135.443341",
+		"confirmed": 7253,
+		"recovered": 5327,
+		"deaths": 90,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Mie": {
+		"lat": "34.508018",
+		"long": "136.376013",
+		"confirmed": 1847,
+		"recovered": 1475,
+		"deaths": 24,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Miyagi": {
+		"lat": "38.446859",
+		"long": "140.927086",
+		"confirmed": 3131,
+		"recovered": 2411,
+		"deaths": 22,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Miyazaki": {
+		"lat": "32.193204",
+		"long": "131.299374",
+		"confirmed": 1647,
+		"recovered": 1230,
+		"deaths": 14,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Nagano": {
+		"lat": "36.132134",
+		"long": "138.045528",
+		"confirmed": 2076,
+		"recovered": 1595,
+		"deaths": 22,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Nagasaki": {
+		"lat": "33.235712",
+		"long": "129.608033",
+		"confirmed": 1334,
+		"recovered": 879,
+		"deaths": 18,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Nara": {
+		"lat": "34.317451",
+		"long": "135.871644",
+		"confirmed": 2672,
+		"recovered": 2263,
+		"deaths": 33,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Niigata": {
+		"lat": "37.521819",
+		"long": "138.918647",
+		"confirmed": 788,
+		"recovered": 633,
+		"deaths": 7,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Oita": {
+		"lat": "33.200697",
+		"long": "131.43324",
+		"confirmed": 955,
+		"recovered": 792,
+		"deaths": 12,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Okayama": {
+		"lat": "34.89246",
+		"long": "133.826252",
+		"confirmed": 2154,
+		"recovered": 1434,
+		"deaths": 17,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Okinawa": {
+		"lat": "25.768923",
+		"long": "126.668016",
+		"confirmed": 6706,
+		"recovered": 5752,
+		"deaths": 89,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Osaka": {
+		"lat": "34.620965",
+		"long": "135.507481",
+		"confirmed": 39558,
+		"recovered": 31931,
+		"deaths": 777,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Port Quarantine": {
+		"lat": "",
+		"long": "",
+		"confirmed": 2108,
+		"recovered": 1946,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Saga": {
+		"lat": "33.286977",
+		"long": "130.115738",
+		"confirmed": 840,
+		"recovered": 584,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Saitama": {
+		"lat": "35.997101",
+		"long": "139.347635",
+		"confirmed": 21973,
+		"recovered": 14664,
+		"deaths": 292,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shiga": {
+		"lat": "35.215827",
+		"long": "136.138064",
+		"confirmed": 1840,
+		"recovered": 1402,
+		"deaths": 20,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shimane": {
+		"lat": "35.07076",
+		"long": "132.554064",
+		"confirmed": 245,
+		"recovered": 223,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shizuoka": {
+		"lat": "34.916975",
+		"long": "138.407784",
+		"confirmed": 4040,
+		"recovered": 3002,
+		"deaths": 64,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tochigi": {
+		"lat": "36.689912",
+		"long": "139.819213",
+		"confirmed": 3385,
+		"recovered": 2092,
+		"deaths": 29,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tokushima": {
+		"lat": "33.919178",
+		"long": "134.242091",
+		"confirmed": 311,
+		"recovered": 214,
+		"deaths": 10,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tokyo": {
+		"lat": "35.711343",
+		"long": "139.446921",
+		"confirmed": 89256,
+		"recovered": 66881,
+		"deaths": 751,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tottori": {
+		"lat": "35.359069",
+		"long": "133.863619",
+		"confirmed": 185,
+		"recovered": 128,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Toyama": {
+		"lat": "36.637464",
+		"long": "137.269346",
+		"confirmed": 827,
+		"recovered": 659,
+		"deaths": 27,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Unknown": {
+		"lat": "",
+		"long": "",
+		"confirmed": 8,
+		"recovered": 8,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Wakayama": {
+		"lat": "33.911879",
+		"long": "135.505446",
+		"confirmed": 928,
+		"recovered": 755,
+		"deaths": 11,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Yamagata": {
+		"lat": "38.448396",
+		"long": "140.102154",
+		"confirmed": 453,
+		"recovered": 400,
+		"deaths": 13,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Yamaguchi": {
+		"lat": "34.20119",
+		"long": "131.573293",
+		"confirmed": 986,
+		"recovered": 740,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Yamanashi": {
+		"lat": "35.612364",
+		"long": "138.611489",
+		"confirmed": 871,
+		"recovered": 703,
+		"deaths": 13,
+		"updated": "2021/01/21 01:22:17+00"
+	}
+}
