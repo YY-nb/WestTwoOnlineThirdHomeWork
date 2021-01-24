@@ -1,0 +1,281 @@
+{
+	"All": {
+		"confirmed": 98499,
+		"recovered": 91365,
+		"deaths": 4801,
+		"country": "China",
+		"population": 1409517397,
+		"sq_km_area": 9572900,
+		"life_expectancy": "71.4",
+		"elevation_in_meters": "1840",
+		"continent": "Asia",
+		"abbreviation": "CN",
+		"location": "Eastern Asia",
+		"iso": 156,
+		"capital_city": "Peking"
+	},
+	"Anhui": {
+		"lat": "31.8257",
+		"long": "117.2264",
+		"confirmed": 993,
+		"recovered": 987,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Beijing": {
+		"lat": "40.1824",
+		"long": "116.4142",
+		"confirmed": 1017,
+		"recovered": 964,
+		"deaths": 9,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Chongqing": {
+		"lat": "30.0572",
+		"long": "107.874",
+		"confirmed": 591,
+		"recovered": 584,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Fujian": {
+		"lat": "26.0789",
+		"long": "117.9874",
+		"confirmed": 533,
+		"recovered": 513,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Gansu": {
+		"lat": "35.7518",
+		"long": "104.2861",
+		"confirmed": 182,
+		"recovered": 180,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Guangdong": {
+		"lat": "23.3417",
+		"long": "113.4244",
+		"confirmed": 2093,
+		"recovered": 2044,
+		"deaths": 8,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Guangxi": {
+		"lat": "23.8298",
+		"long": "108.7881",
+		"confirmed": 266,
+		"recovered": 262,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Guizhou": {
+		"lat": "26.8154",
+		"long": "106.8748",
+		"confirmed": 147,
+		"recovered": 145,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hainan": {
+		"lat": "19.1959",
+		"long": "109.7453",
+		"confirmed": 171,
+		"recovered": 165,
+		"deaths": 6,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hebei": {
+		"lat": "37.8957",
+		"long": "114.9042",
+		"confirmed": 1222,
+		"recovered": 384,
+		"deaths": 7,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Heilongjiang": {
+		"lat": "47.862",
+		"long": "127.7615",
+		"confirmed": 1227,
+		"recovered": 955,
+		"deaths": 13,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Henan": {
+		"lat": "33.882",
+		"long": "113.614",
+		"confirmed": 1303,
+		"recovered": 1276,
+		"deaths": 22,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hong Kong": {
+		"lat": "22.3",
+		"long": "114.2",
+		"confirmed": 9797,
+		"recovered": 8865,
+		"deaths": 166,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hubei": {
+		"lat": "30.9756",
+		"long": "112.2707",
+		"confirmed": 68150,
+		"recovered": 63637,
+		"deaths": 4512,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Hunan": {
+		"lat": "27.6104",
+		"long": "111.7088",
+		"confirmed": 1026,
+		"recovered": 1017,
+		"deaths": 4,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Inner Mongolia": {
+		"lat": "44.0935",
+		"long": "113.9448",
+		"confirmed": 366,
+		"recovered": 351,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Jiangsu": {
+		"lat": "32.9711",
+		"long": "119.455",
+		"confirmed": 688,
+		"recovered": 684,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Jiangxi": {
+		"lat": "27.614",
+		"long": "115.7221",
+		"confirmed": 935,
+		"recovered": 934,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Jilin": {
+		"lat": "43.6661",
+		"long": "126.1923",
+		"confirmed": 290,
+		"recovered": 155,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Liaoning": {
+		"lat": "41.2956",
+		"long": "122.6085",
+		"confirmed": 396,
+		"recovered": 368,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Macau": {
+		"lat": "22.1667",
+		"long": "113.55",
+		"confirmed": 46,
+		"recovered": 46,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Ningxia": {
+		"lat": "37.2692",
+		"long": "106.1655",
+		"confirmed": 75,
+		"recovered": 75,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Qinghai": {
+		"lat": "35.7452",
+		"long": "95.9956",
+		"confirmed": 18,
+		"recovered": 18,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shaanxi": {
+		"lat": "35.1917",
+		"long": "108.8701",
+		"confirmed": 533,
+		"recovered": 503,
+		"deaths": 3,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shandong": {
+		"lat": "36.3427",
+		"long": "118.1498",
+		"confirmed": 866,
+		"recovered": 856,
+		"deaths": 7,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shanghai": {
+		"lat": "31.202",
+		"long": "121.4491",
+		"confirmed": 1615,
+		"recovered": 1513,
+		"deaths": 7,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Shanxi": {
+		"lat": "37.5777",
+		"long": "112.2922",
+		"confirmed": 230,
+		"recovered": 224,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Sichuan": {
+		"lat": "30.6171",
+		"long": "102.7103",
+		"confirmed": 865,
+		"recovered": 852,
+		"deaths": 3,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tianjin": {
+		"lat": "39.3054",
+		"long": "117.323",
+		"confirmed": 330,
+		"recovered": 307,
+		"deaths": 3,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Tibet": {
+		"lat": "31.6927",
+		"long": "88.0924",
+		"confirmed": 1,
+		"recovered": 1,
+		"deaths": 0,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Xinjiang": {
+		"lat": "41.1129",
+		"long": "85.2401",
+		"confirmed": 980,
+		"recovered": 977,
+		"deaths": 3,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Yunnan": {
+		"lat": "24.974",
+		"long": "101.487",
+		"confirmed": 231,
+		"recovered": 225,
+		"deaths": 2,
+		"updated": "2021/01/21 01:22:17+00"
+	},
+	"Zhejiang": {
+		"lat": "29.1832",
+		"long": "120.0934",
+		"confirmed": 1316,
+		"recovered": 1298,
+		"deaths": 1,
+		"updated": "2021/01/21 01:22:17+00"
+	}
+}
